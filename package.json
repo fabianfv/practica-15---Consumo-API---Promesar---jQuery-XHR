@@ -1,0 +1,21 @@
+{
+  "name": "practica-15-promesas-api-xhr",
+  "version": "0.0.1",
+  "description": "Consumo del API Rick and Morty usando promesas y XMLHttpRequest",
+  "main": "index.js",
+  "scripts": {
+    "promesaXHR": "node src/XHR/index.js"
+  },
+  "keywords": [
+    "api",
+    "XMLHttpRequest",
+    "promesas",
+    "XHR",
+    "promises"
+  ],
+  "author": "Fabián Flores Vadell",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
